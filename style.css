@@ -1157,3 +1157,27 @@ body::selection {
 .social-icon:hover svg {
     transform: scale(1.15);
 }
+/* ================= PHONE ICON ================= */
+
+.phone-icon {
+    font-size: 23px;
+    color: #888;
+    cursor: pointer;
+}
+
+.phone-icon span {
+    display: block;
+    line-height: 1;
+}
+
+.phone-icon:hover {
+    color: var(--accent);
+    border-color: var(--accent);
+    background: rgba(184, 255, 0, 0.08);
+    transform: translateY(-6px);
+    box-shadow: 0 10px 30px rgba(184, 255, 0, 0.15);
+}
+
+.phone-icon:hover span {
+    transform: scale(1.15);
+}
