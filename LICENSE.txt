@@ -1,0 +1,340 @@
+==================================================
+NEXA — MODERN DARK DEVELOPER PORTFOLIO
+==================================================
+
+Thank you for purchasing Nexa!
+
+Nexa is a modern, responsive and animated developer
+portfolio template built with HTML, CSS and JavaScript.
+
+It is designed for developers, freelancers, designers,
+students and anyone who wants a professional online
+portfolio.
+
+--------------------------------------------------
+1. FEATURES
+--------------------------------------------------
+
+- Modern dark UI
+- Fully responsive design
+- Mobile, tablet and desktop support
+- Smooth scrolling
+- Scroll reveal animations
+- Hero entrance animations
+- Project cards
+- Skills section
+- About section
+- Contact section
+- Social media links
+- Back-to-top button
+- Animated background elements
+- Clean and organized code
+- Easy to customize
+- No frameworks required
+
+--------------------------------------------------
+2. TECHNOLOGIES
+--------------------------------------------------
+
+HTML5
+CSS3
+JavaScript
+
+The template does not require React, Node.js,
+npm or any other framework.
+
+--------------------------------------------------
+3. FOLDER STRUCTURE
+--------------------------------------------------
+
+Nexa-Portfolio/
+
+    index.html
+
+    css/
+        style.css
+
+    js/
+        script.js
+
+    assets/
+        images/
+            project-1.png
+            project-2.png
+            project-3.png
+
+    README.txt
+
+--------------------------------------------------
+4. HOW TO INSTALL
+--------------------------------------------------
+
+No installation is required.
+
+Simply extract the ZIP file and open:
+
+    index.html
+
+in your web browser.
+
+For the best development experience, you can open
+the project folder using Visual Studio Code.
+
+--------------------------------------------------
+5. CHANGE YOUR NAME
+--------------------------------------------------
+
+Open:
+
+    index.html
+
+Search for the existing name and replace it with
+your own name.
+
+For example:
+
+    Your Name
+
+You can also change the text inside the Hero section
+and About section.
+
+--------------------------------------------------
+6. CHANGE YOUR EMAIL
+--------------------------------------------------
+
+Open:
+
+    index.html
+
+Find the contact section.
+
+Replace the existing email address with your own.
+
+Example:
+
+    your@email.com
+
+The email button can be configured to open Gmail
+or another email service.
+
+--------------------------------------------------
+7. CHANGE SOCIAL MEDIA LINKS
+--------------------------------------------------
+
+Open:
+
+    index.html
+
+Find the Social Links section.
+
+Replace the existing links with your own:
+
+    GitHub
+    Instagram
+    LinkedIn
+    Other social platforms
+
+You can remove any social platform you don't use.
+
+--------------------------------------------------
+8. CHANGE PROJECTS
+--------------------------------------------------
+
+Open:
+
+    index.html
+
+Find:
+
+    Featured Projects
+
+Each project contains:
+
+- Project image
+- Project title
+- Project description
+- Project category
+- Technology tags
+
+Replace the example projects with your own projects.
+
+Example:
+
+    Project Name
+
+    A short description of your project.
+
+    HTML
+    CSS
+    JavaScript
+
+--------------------------------------------------
+9. CHANGE PROJECT IMAGES
+--------------------------------------------------
+
+Project images are located inside:
+
+    assets/images/
+
+Replace the existing images with your own images.
+
+Recommended format:
+
+    PNG
+    JPG
+    WEBP
+
+For best results, use images with similar dimensions
+for all project cards.
+
+After adding your image, update the image filename
+inside index.html.
+
+Example:
+
+    assets/images/project-1.png
+
+--------------------------------------------------
+10. CHANGE COLORS
+--------------------------------------------------
+
+Open:
+
+    css/style.css
+
+At the beginning of the file you will find the
+main CSS variables.
+
+You can change the accent color, background color,
+text color and other design colors from there.
+
+Example:
+
+    --accent
+
+Changing this value will change the main accent
+color throughout the website.
+
+--------------------------------------------------
+11. CHANGE FONTS
+--------------------------------------------------
+
+The template uses the Inter font.
+
+The font is loaded through Google Fonts.
+
+You can change the font in:
+
+    css/style.css
+
+Search for:
+
+    font-family
+
+and replace it with your preferred font.
+
+--------------------------------------------------
+12. EDIT ANIMATIONS
+--------------------------------------------------
+
+The animations are controlled using:
+
+    css/style.css
+    js/script.js
+
+You can adjust animation duration, delay,
+transitions and scroll effects.
+
+--------------------------------------------------
+13. RESPONSIVE DESIGN
+--------------------------------------------------
+
+Nexa is designed to work on:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile phones
+
+Responsive breakpoints are included in:
+
+    css/style.css
+
+--------------------------------------------------
+14. BROWSER SUPPORT
+--------------------------------------------------
+
+The template is designed for modern browsers including:
+
+- Google Chrome
+- Microsoft Edge
+- Mozilla Firefox
+- Safari
+
+For the best experience, use an up-to-date browser.
+
+--------------------------------------------------
+15. CUSTOMIZATION
+--------------------------------------------------
+
+You are free to customize:
+
+- Name
+- Profile information
+- Email
+- Social links
+- Projects
+- Project images
+- Skills
+- Colors
+- Text
+- Animations
+- Portfolio sections
+
+--------------------------------------------------
+16. SUPPORT
+--------------------------------------------------
+
+If you experience a problem with the template,
+first make sure that:
+
+1. All files were extracted correctly.
+2. Folder names were not changed.
+3. Image paths are correct.
+4. CSS and JavaScript files are inside their
+   original folders.
+5. You are opening the correct index.html file.
+
+--------------------------------------------------
+17. LICENSE
+--------------------------------------------------
+
+This template is licensed to the original purchaser.
+
+You may:
+
+- Use the template for personal projects.
+- Use the template for commercial client projects.
+- Customize the template.
+- Modify the source code.
+
+You may NOT:
+
+- Resell the original template as your own template.
+- Redistribute the original source files.
+- Upload the original template to free download websites.
+- Share the original ZIP file publicly.
+- Claim the original design or source code as your own.
+
+--------------------------------------------------
+18. THANK YOU
+--------------------------------------------------
+
+Thank you for choosing Nexa.
+
+We hope this template helps you build an amazing
+portfolio and showcase your work professionally.
+
+==================================================
+NEXA — MODERN DEVELOPER PORTFOLIO
+==================================================
