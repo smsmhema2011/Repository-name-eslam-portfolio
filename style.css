@@ -943,11 +943,8 @@ body::selection {
 .skill-card,
 .project-card,
 .contact-container {
-    opacity: 1;
-    transform: translateY(0);
-    transition:
-        opacity 0.8s ease,
-        transform 0.8s ease;
+    opacity: 1 !important;
+    transform: none !important;
 }
 
 .reveal.active,
